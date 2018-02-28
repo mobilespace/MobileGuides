@@ -5,8 +5,8 @@ Open source guides for developing **full-stack mobile & web apps**. In these gui
 
 ## Guides
       
-### [How to setup a web app & server with React, Express and deploy it to Heroku.]()
-- by [Monte Thakkar](@monte9)
+### [How to setup a web app & server with React, Express and deploy it to Heroku.](https://github.com/mobilespace/MobileGuides/blob/master/web_app_guide.md)
+- by [Monte Thakkar](https://github.com/monte9/)
 
 <br /><br /><br /><br /><br /><br />
 
