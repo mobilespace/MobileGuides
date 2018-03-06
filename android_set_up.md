@@ -10,15 +10,14 @@ Genymotion requires you to have Oracle VM VirtualBox in order for it to work. If
 
 3) Follow these [instructions](https://docs.expo.io/versions/latest/guides/genymotion.html#genymotion) here to configure Genymotion and Android Studio. **Make sure to follow "Option 1: User Andriod Studio's tools"** and **"Step 2: Path your path in XDE"**.
 
-In your home directory, open your bash_profile by typing in this command:
+	In your home directory, open your bash_profile by typing in this command:
 
-$ open .bash_profile
+	$ open .bash_profile
 
-In your bash_profile, copy and paste these paths, enter your computer's username, and save.
+	In your bash_profile, copy and paste these paths, enter your computer's username, and save.
 
-# Android SDK
-export PATH=/Users/YOUR_USER_NAME/Library/Android/sdk/platform-tools:$PATH
-export PATH=/Users/YOUR_USER_NAME/Library/Android/sdk:$PATH
+	export PATH=/Users/YOUR_USER_NAME/Library/Android/sdk/platform-tools:$PATH
+	export PATH=/Users/YOUR_USER_NAME/Library/Android/sdk:$PATH
 
 4) Run Genymotion with a Nexus 5 device.
 
