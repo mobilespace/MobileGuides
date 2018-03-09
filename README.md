@@ -10,12 +10,33 @@ Open source guides for developing **full-stack mobile & web apps**. In these gui
 
 ### [Setting up the Android Emulator with Genymotion.](https://github.com/mobilespace/MobileGuides/blob/master/android_set_up.md)
 
+### Basic Components
 
 ### Layout with FlexBox
+
+### Stylesheet
+
+### Flatlist
 
 ### State
 
 ### Navigation
+
+### Platform
+
+### Custom Components
+
+## Landing a Job
+
+### Linkedin
+
+### Resume
+
+### Portfolio
+
+### Preparing for an Interview
+
+### Questions to ask in an Interview
 
 
 <br /><br /><br /><br /><br /><br />
