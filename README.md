@@ -26,6 +26,17 @@ Open source guides for developing **full-stack mobile & web apps**. In these gui
 
 ### Custom Components
 
+## Advanced React Native
+
+### API Calls
+
+### Async Storage
+
+### Redux
+
+### Authentication
+
+
 ## Landing a Job
 
 ### Linkedin
