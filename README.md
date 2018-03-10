@@ -16,6 +16,8 @@ Open source guides for developing **full-stack mobile & web apps**. In these gui
 
 ### Stylesheet
 
+### [Loading Custom Fonts](https://github.com/mobilespace/MobileGuides/blob/master/font_guide.md)
+
 ### Flatlist
 
 ### State
@@ -35,6 +37,10 @@ Open source guides for developing **full-stack mobile & web apps**. In these gui
 ### Redux
 
 ### Authentication
+
+## JavaScript
+
+### Async Functions 
 
 
 ## Landing a Job
