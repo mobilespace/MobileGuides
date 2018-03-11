@@ -7,6 +7,12 @@ These guides are open source and maintained by MobileSpace.
 
 # Guides
 
+## :dizzy: Full Stack apps
+
+### [Full-Stack Social Network](https://github.com/mobilespace/MobileGuides/blob/master/full_stack_social_network.md)
+
+<br />
+
 ## :100: React Native
       
 ### [Setting up the Android Emulator with Genymotion.](https://github.com/mobilespace/MobileGuides/blob/master/android_set_up.md)
@@ -46,12 +52,6 @@ These guides are open source and maintained by MobileSpace.
 ## :open_book: JavaScript
 
 ### Async Functions 
-
-<br />
-
-## :dizzy: Full Stack apps
-
-### [How to setup a web app & server with React, Express and deploy it to Heroku.](https://github.com/mobilespace/MobileGuides/blob/master/web_app_guide.md)
 
 <br />
 
