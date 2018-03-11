@@ -1,1 +1,0 @@
-## Init web app guide
