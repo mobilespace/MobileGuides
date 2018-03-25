@@ -11,6 +11,8 @@ These guides are open source and maintained by MobileSpace.
 
 ### [Full-Stack Social Network](https://github.com/mobilespace/MobileGuides/blob/master/full_stack_social_network.md)
 
+### [Showcase the Mobile App on the README](https://github.com/mobilespace/MobileGuides/blob/master/showcase_app_readme.md)
+
 <br />
 
 ## :100: React Native
