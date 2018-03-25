@@ -11,7 +11,7 @@ These guides are open source and maintained by MobileSpace.
 
 ### [Full-Stack Social Network](https://github.com/mobilespace/MobileGuides/blob/master/full_stack_social_network.md)
 
-### [Showcase the Mobile App on the README](https://github.com/mobilespace/MobileGuides/blob/master/showcase_app_readme.md)
+### [Showcase mobile app with README](https://github.com/mobilespace/MobileGuides/blob/master/showcase_app_readme.md)
 
 <br />
 
@@ -37,6 +37,8 @@ These guides are open source and maintained by MobileSpace.
 
 ### Custom Components
 
+### Mobile design patterns & principles (iOS vs Android)
+
 <br />
 
 ## :rocket: Advanced React Native
@@ -48,6 +50,10 @@ These guides are open source and maintained by MobileSpace.
 ### Redux
 
 ### Authentication
+
+### Animations
+
+### Testing - Jest & Detox
 
 <br />
 
