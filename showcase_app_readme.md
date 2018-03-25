@@ -6,6 +6,8 @@ Follow the below section guidelines and add the relevant information as needed.
 - Add relevant tags to the repo (header)
 - Add a link to the Expo app (header)
 
+<img src='https://i.imgur.com/DV5c0jV.png' width="500" />
+
 ### Section 1:
 - Add the logo, name of the app & description (centered)
 
@@ -24,6 +26,8 @@ Follow the below section guidelines and add the relevant information as needed.
   Cross Platform <a href="https://facebook.github.io/react-native/">React Native</a> UI Toolkit
 </p>
 ```
+
+<img src='https://i.imgur.com/CKqNFaw.png' width="500" />
 
 ### Section 2:
 - Add a link to the demo Expo app
