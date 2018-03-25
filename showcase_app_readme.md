@@ -26,29 +26,65 @@ Follow the below section guidelines and add the relevant information as needed.
 ```
 
 ### Section 2:
+- Add a link to the demo Expo app
+```
+### [Demo - Try it on Expo](https://exp.host/@monte9/daug-mobile)
+```
+
+### Section 3:
 - Add a description about the app
-- What's it called,
+- Add a working demo of the app using LiceCap
+- You can add a few screenshots _(Optional)_
+
+```
+## What's Daug?
+
+**Daug is a social network for pets.**
+
+- Your pets can **sign up or login** using their paws.
+- They can **upload selfies** or **post their thoughts** for other pets to see.
+
+![daug_demo](https://i.imgur.com/XheHhg5.gif)
+```
+
+### Section 4:
+- Talk about the functionality of the app
+- Also mention any interesting packages used such as camera or calendar or animations etc
+- Talk about any additional functionality that you would like to implement later on
+
+```
+## Functionality
+- Daug is a fully functioning Social Network app
+- Users can Sign up & Log into the app
+- Users can create a new Posts
+- Users can like and comments on Posts
+- Users can follow each other
+
+Also used React Native Camera library to let the users take pictures while creating posts or upload a new profile picture.
+
+Would like to implement Redux in the future to better manage the state. Also would like to add themeing to the app to enable light/dark modes.
+```
+
+### Section 5:
+- Add simple `Getting Started` on how to clone, install and run the app locally
+
+```
+## Getting started
 
 
-Monte Thakkar [4:44 PM]
-uploaded this image: Screen Shot 2018-03-19 at 4.44.46 PM.png 
+git clone git@github.com:mobilespace/daug-mobile.git
 
+exp start
 
-Monte Thakkar [4:45 PM]
-format it something like this ^^ it looks really pretty and clean
-I use similar formatting for all my open source projects
+exp ios
 
-Monte Thakkar [4:45 PM]
-uploaded this image: Screen Shot 2018-03-19 at 4.45.16 PM.png 
+```
 
+### Section 6:
+- Add a feedback or questions section
 
-Monte Thakkar [4:46 PM]
-4. The next section should be about the app (edited)
-record a working demo of the app using LiceCap and add it there. (no need of screenshots as it’s very verbose)
-5. In the same section add the mission statement to talk more about the app
-6. Next section should be the result fo the app. So talk about the prizes you won
-7. the tell them how built the app.. so move the team thing here.
-8. talk about the future of the app. current only works with dash.. but plan to add more cryptocurrencies in the future
-9. Finally add for the developers and getting started
-10. Contact us section: If you have any q’s or wanna reach out.. ping you on email.
-lol.. that’s super detailed feedback. Just make the changes that make sense to you.
+```
+## Feedback
+
+In case you have any feedback, feel free to open a new issues on this repo or reach out to me [**@monte9**](https://github.com/monte9).
+```
